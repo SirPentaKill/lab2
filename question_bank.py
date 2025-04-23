@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #---------------------------------------
 #  Question Bank
 #    Student B
@@ -135,4 +136,6 @@ def display_correct_answer(correct_answer):
 
 
 
+=======
+>>>>>>> 30429d5a338cf6ada88830edb59b92c67f95ef34
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # main.py
 #---------------------------------------
 #  Main Application
@@ -74,3 +75,6 @@ def main():
 #  Application Entry Point
 main()
 #---------------------------------
+=======
+
+>>>>>>> 30429d5a338cf6ada88830edb59b92c67f95ef34
